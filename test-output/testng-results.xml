@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2026-11-10T18:09:35 IST" name="Suite" finished-at="2026-11-10T18:09:47 IST" duration-ms="12344">
+    <groups>
+    </groups>
+    <test started-at="2026-11-10T18:09:35 IST" name="Test" finished-at="2026-11-10T18:09:47 IST" duration-ms="12344">
+      <class name="kerala_test_pkg.Klogin_test">
+        <test-method is-config="true" signature="setup()[pri:0, instance:kerala_test_pkg.Klogin_test@3b69e7d1]" started-at="2026-11-10T18:09:35 IST" name="setup" finished-at="2026-11-10T18:09:38 IST" duration-ms="3211" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method is-config="true" signature="objects()[pri:0, instance:kerala_test_pkg.Klogin_test@3b69e7d1]" started-at="2026-11-10T18:09:38 IST" name="objects" finished-at="2026-11-10T18:09:38 IST" duration-ms="44" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- objects -->
+        <test-method signature="loginTestMtd()[pri:1, instance:kerala_test_pkg.Klogin_test@3b69e7d1]" started-at="2026-11-10T18:09:38 IST" name="loginTestMtd" finished-at="2026-11-10T18:09:38 IST" duration-ms="248" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTestMtd -->
+        <test-method is-config="true" signature="close()[pri:0, instance:kerala_test_pkg.Klogin_test@3b69e7d1]" started-at="2026-11-10T18:09:47 IST" name="close" finished-at="2026-11-10T18:09:47 IST" duration-ms="157" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- kerala_test_pkg.Klogin_test -->
+      <class name="kerala_test_pkg.Khome_test">
+        <test-method signature="addpropTestMtd()[pri:1, instance:kerala_test_pkg.Khome_test@7e6f74c]" started-at="2026-11-10T18:09:38 IST" name="addpropTestMtd" finished-at="2026-11-10T18:09:40 IST" duration-ms="1622" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addpropTestMtd -->
+        <test-method is-config="true" signature="objects()[pri:0, instance:kerala_test_pkg.Khome_test@7e6f74c]" started-at="2026-11-10T18:09:38 IST" name="objects" finished-at="2026-11-10T18:09:38 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- objects -->
+        <test-method is-config="true" signature="objects()[pri:0, instance:kerala_test_pkg.Khome_test@7e6f74c]" started-at="2026-11-10T18:09:40 IST" name="objects" finished-at="2026-11-10T18:09:40 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- objects -->
+        <test-method signature="propertyListPrecenseTestMtd()[pri:2, instance:kerala_test_pkg.Khome_test@7e6f74c]" started-at="2026-11-10T18:09:40 IST" name="propertyListPrecenseTestMtd" finished-at="2026-11-10T18:09:40 IST" duration-ms="175" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- propertyListPrecenseTestMtd -->
+        <test-method signature="propertyInfoTestMtd()[pri:3, instance:kerala_test_pkg.Khome_test@7e6f74c]" started-at="2026-11-10T18:09:40 IST" name="propertyInfoTestMtd" finished-at="2026-11-10T18:09:44 IST" duration-ms="3458" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- propertyInfoTestMtd -->
+        <test-method is-config="true" signature="objects()[pri:0, instance:kerala_test_pkg.Khome_test@7e6f74c]" started-at="2026-11-10T18:09:40 IST" name="objects" finished-at="2026-11-10T18:09:40 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- objects -->
+        <test-method signature="propertySummaryTestMtd()[pri:4, instance:kerala_test_pkg.Khome_test@7e6f74c]" started-at="2026-11-10T18:09:44 IST" name="propertySummaryTestMtd" finished-at="2026-11-10T18:09:44 IST" duration-ms="44" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- propertySummaryTestMtd -->
+        <test-method is-config="true" signature="objects()[pri:0, instance:kerala_test_pkg.Khome_test@7e6f74c]" started-at="2026-11-10T18:09:44 IST" name="objects" finished-at="2026-11-10T18:09:44 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- objects -->
+        <test-method signature="summaryTestMtd()[pri:5, instance:kerala_test_pkg.Khome_test@7e6f74c]" started-at="2026-11-10T18:09:44 IST" name="summaryTestMtd" finished-at="2026-11-10T18:09:47 IST" duration-ms="3340" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- summaryTestMtd -->
+        <test-method is-config="true" signature="objects()[pri:0, instance:kerala_test_pkg.Khome_test@7e6f74c]" started-at="2026-11-10T18:09:44 IST" name="objects" finished-at="2026-11-10T18:09:44 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- objects -->
+      </class> <!-- kerala_test_pkg.Khome_test -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
